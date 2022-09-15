@@ -1,0 +1,44 @@
+
+/* hexadecimal */
+h1{
+    color: #0af463;background-color: red;
+}
+
+/* transparent hexadecimal */
+h2{
+    color: #0af46322;background-color: orange;
+}
+
+/* word color */
+h3{
+    color: plum;background-color: yellow;
+}
+
+/* short hexadecimal  */
+h4{
+    color: #f0f;background-color: green;
+}
+
+/* transparent  short hexadecimal */
+h5{
+    color: #f0f2;background-color: blue;
+}
+
+
+/* RGB */
+
+h6{
+    color: rgb(128, 22, 200);background-color: indigo;
+}
+
+/* RGBA */
+p{
+    color: rgba(22, 128, 100, 0.1);background-color: violet;
+}
+
+
+/* bonus */
+
+
+
+
